@@ -2,6 +2,3 @@
 
 
 my
-
-project
-df
